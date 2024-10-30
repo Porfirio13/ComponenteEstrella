@@ -1,0 +1,13 @@
+# Instalacion
+## Una vez descargado el proyecto, abrimos NetBeans y en la pestaña File seleccionamos import proyect y después from ZIP…![2024-10-30 05_46_35-Untitled - Paint](https://github.com/user-attachments/assets/9451cbfa-2f43-4e31-af73-62405148b792)
+## Se nos abrirá esta ventana y en ZIP File: damos click en browse para buscar nuestro archivo descargado.![2024-10-30 05_48_11-Componente_Final - Apache NetBeans IDE 12 6](https://github.com/user-attachments/assets/66f5ff8e-e9ac-40e9-a82a-c6a819f62db4)
+## Después de haberlo importado, damos click derecho sobre el proyecto y seleccionamos Clean and Build.![2024-10-30 05_49_52-Untitled - Paint](https://github.com/user-attachments/assets/abc24897-24c1-4b09-9ddc-0f9134bb3cc2)
+## Nos generará un archivo .JAR y en el apartado de output podremos ver donde se guardó![2024-10-30 05_52_43-Componente_Final - Apache NetBeans IDE 12 6](https://github.com/user-attachments/assets/be8f157d-f8d4-41cd-a4ee-c91375a42ec1)
+![2024-10-30 05_53_18-dist](https://github.com/user-attachments/assets/431c9033-f6b0-4ac9-bd88-a5f7cad7c538)
+## En NetBeans, ahora nos dirigimos a la pestaña de Tools y seleccionamos Palette y después Swing/AWT Components![2024-10-30 05_54_04-Untitled - Paint](https://github.com/user-attachments/assets/bbc462bf-429e-494b-a807-a5849608df88)
+## Nos abrirá una ventana nueva y en ella seleccionamos Add from JAR… para buscar el componente. La ubicación en la que se guardó la observamos en un paso anterior.![2024-10-30 05_54_52-Componente_Final - Apache NetBeans IDE 12 6](https://github.com/user-attachments/assets/5dcbf3e7-0fb0-4de2-b4be-14d6b8f6faae)
+## Lo agregamos y después damos click en Next.![2024-10-30 05_55_57-Install Components to Palette](https://github.com/user-attachments/assets/3fa2c80c-9d38-4fec-a072-9df5ab623b6a)
+## Después seleccionamos el apartado en el queremos que aparezca y damos click en Finish![2024-10-30 05_56_19-Install Components to Palette](https://github.com/user-attachments/assets/b3ba13d5-0af2-4ee3-9792-2d0949803a8e)
+## Si todos los pasos se hicieron correctamente, deberíamos ser capaces de ver el componente en el apartado de Pallete al crear un nuevo JForm.![2024-10-30 05_59_00-topicosAvanzados - Apache NetBeans IDE 12 6](https://github.com/user-attachments/assets/4d0fa961-7adf-4a73-a9f6-9fa6b383c0ca)
+## Lo arrastramos a nuestro panel para poder hacer uso de el.![2024-10-30 05_59_42-topicosAvanzados - Apache NetBeans IDE 12 6](https://github.com/user-attachments/assets/b97d84b6-ccce-4a83-b92a-2a1f89db19f6)
+## Ejecutamos el programa para ver al componente en funcionamiento.![2024-10-30 06_00_51-](https://github.com/user-attachments/assets/e6ad568c-6884-4b84-b3e1-dbb9ec3c7423)
