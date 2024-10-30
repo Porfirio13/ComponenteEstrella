@@ -1,4 +1,5 @@
 # Instalacion
+## Para instalar el componente primero tenemos que descargar el proyecto comprimido en ZIP, en el apartado de `code`![2024-10-30 06_41_51-gzmark_ComponenteEstrella](https://github.com/user-attachments/assets/0c8c20b4-7a4b-45c1-aa68-451e50ae7e73)
 ## Una vez descargado el proyecto, abrimos NetBeans y en la pestaña File seleccionamos import proyect y después from ZIP…![2024-10-30 05_46_35-Untitled - Paint](https://github.com/user-attachments/assets/9451cbfa-2f43-4e31-af73-62405148b792)
 ## Se nos abrirá esta ventana y en ZIP File: damos click en browse para buscar nuestro archivo descargado.![2024-10-30 05_48_11-Componente_Final - Apache NetBeans IDE 12 6](https://github.com/user-attachments/assets/66f5ff8e-e9ac-40e9-a82a-c6a819f62db4)
 ## Después de haberlo importado, damos click derecho sobre el proyecto y seleccionamos Clean and Build.![2024-10-30 05_49_52-Untitled - Paint](https://github.com/user-attachments/assets/abc24897-24c1-4b09-9ddc-0f9134bb3cc2)
